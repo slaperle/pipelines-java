@@ -1,3 +1,4 @@
+[![Build Status](http://canatsp19eval:8181/DevOpsCollection/TestGitSimon/_apis/build/status/TestGitSimon-CI)](http://canatsp19eval:8181/DevOpsCollection/TestGitSimon/_build/latest?definitionId=36)
 
 # Contributing
 
