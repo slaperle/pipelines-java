@@ -1,4 +1,3 @@
-will this get pushed as well
 
 # Contributing
 
